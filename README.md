@@ -1,2 +1,2 @@
 # Pembahasan-OSNK-Informatika
-Pembahasan OSN
+Pembahasan OSNK Informatika
